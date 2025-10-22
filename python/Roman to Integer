@@ -25,3 +25,6 @@ class Solution:
             prev_value = value
 
         return total
+
+# Runtime 0ms / Beats 100.00%
+# Memory 12.48MB / Beats 53.18%
